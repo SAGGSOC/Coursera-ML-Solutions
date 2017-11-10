@@ -1,2 +1,2 @@
 # Coursera-ML-Solutions
-This Repository Contains all solutions to programming assignments in "Introduction To Machine Learning" course ar Coursera.
+This Repository Contains all solutions to programming assignments in "Introduction To Machine Learning" course at Coursera.
